@@ -1,0 +1,66 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family:sans-serif;
+}
+#nav-bar
+{
+    position:sticky;
+    top:0;
+    z-index: 10;
+}
+.navbar
+{
+    background-image: linear-gradient(to right,rgb(19, 15, 15),white);
+
+}
+#banner
+{
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+    color:#fff;
+    padding: 20px;
+    text-align: center;
+}
+.hearder2
+{
+    padding: 20px;
+    text-align: center;
+}
+.learn-btn {
+    background-color: blue; 
+    color: white; 
+  }
+  
+.learn-btn:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+#banner a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+#services
+{
+    padding: 88px 0;
+}
+.service-img
+{
+    width: 100px;
+    margin-top: 20px;
+}
+.services
+{
+    padding:20px;
+}
+  #rcorners {
+    border-radius: 50%;
+    background: blueviolet;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+  }
